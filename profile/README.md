@@ -30,7 +30,7 @@ Whether you're building a personal site or shipping a full product, PingFox give
 | Repo | Description |
 |------|-------------|
 | [pingfox-sdk](https://github.com/pingfoxhq/pingfox-sdk) | 🧠 JavaScript SDK for integrating PingFox into any website |
-| (private) `pingfox` | 🔒 Core Django backend powering analytics, forms, hooks, billing, and more |
+| `pingfox` | 🔒 Core Django backend powering analytics, forms, hooks, billing, and more |
 
 ---
 
@@ -48,7 +48,7 @@ Whether you're building a personal site or shipping a full product, PingFox give
 
 ## 🧪 Want to Try It?
 
-Head over to [pingfox.in](https://pingfox.in) *(or your live domain)* and sign up for free to start tracking.
+Head over to [pingfox.in](https://pingfox.in) and sign up for free to start tracking.
 
 Or use our [SDK](https://github.com/pingfoxhq/pingfox-sdk) to embed lightweight analytics in seconds.
 
